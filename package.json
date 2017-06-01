@@ -1,0 +1,23 @@
+{
+  "name": "plz-scanner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/opendata-heilbronn/plz-scanner.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/opendata-heilbronn/plz-scanner/issues"
+  },
+  "homepage": "https://github.com/opendata-heilbronn/plz-scanner#readme",
+  "dependencies": {
+    "geokdbush": "^1.1.0",
+    "kdbush": "^1.0.1"
+  }
+}
