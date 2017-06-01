@@ -26,8 +26,6 @@ lines.forEach((line, index) => {
         }
     }
 });
-fs.writeFileSync("plz.json", JSON.stringify(result, null, 1));
-
 const pointIndex = kdbush(points);
 
 const targetPlz = "74072";
